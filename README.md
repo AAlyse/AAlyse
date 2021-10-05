@@ -15,7 +15,7 @@
 <br>-JavaScript
 <br>-Swift
 
-- I’m looking for new projects! I can be reached at aalyse.media@google.com
+- I’m looking for new projects! I can be reached at aalyse.media@gmail.com
 <!---
 AAlyse/AAlyse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
